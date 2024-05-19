@@ -1,4 +1,9 @@
-# 💫 About Me:
+# 💫 About Me
+
+Hey there! My names Nilacksha, Nilly for short - I'm an ex Pharmaceutical Scientist. Graduated back in 2022, worked in the field for a tiny bit before randomly switching to a Computer Science degree. 
+
+Codings definitely new to me, ofcourse there are some difficulty parts, but nothing I haven't enjoyed learning and implementing. 
+
 🔭 Currently focused on JavaScript with a goal to understand Full Stack Development<br>🌱 I’m currently JavaScript, alongside C++ and Python at University<br>💬 I most definitely use Tabs >> Spaces, I don't know how some of you keep *space space space space*<br>⚡ Fun fact, I have a Pharmaceutical Science degree, I switched to CS in October 2023, and it's been the best decision I've made :)
 
 
