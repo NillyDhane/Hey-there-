@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey there! My names Nilacksha, Nilly for short - I'm an ex Pharmaceutical Scientist. Graduated back in 2022, worked in the field for a tiny bit before randomly switching to a Computer Science degree. 
+Hey there! My names Nilacksha, Nilly for short - I'm an ex Pharmaceutical Scientist. Graduated back in 2022, worked in the field for a tiny bit before randomly switching to learning how to code in my room. Quite the change isn't it xP
 
 Codings definitely new to me, ofcourse there are some difficulty parts, but nothing I haven't enjoyed learning and implementing. 
 
